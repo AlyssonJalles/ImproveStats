@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://alyssonjalles.github.io/ImproveStats/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Academic"
 copyright = "&copy; 2017 Your Name"
 theme = "hugo-academic"
