@@ -1,4 +1,3 @@
-publishDir = "docs"
 baseurl = "https://alyssonjalles.github.io/ImproveStats/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Academic"
 copyright = "&copy; 2017 Your Name"
@@ -8,6 +7,8 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
+relativeurls = true
+publishDir = "docs"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
