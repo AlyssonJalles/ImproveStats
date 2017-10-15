@@ -17,8 +17,8 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-#defaultContentLanguage = "en"
-defaultContentLanguage = "pt"
+#defaultContentLanguage = "pt"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [outputs]
@@ -220,9 +220,9 @@ defaultContentLanguageInSubdir = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-#[Languages.en]
-#  languageCode = "en-us"
+[Languages.en]
+  languageCode = "en-us"
   
   # Configure the English version of the website.
-[Languages.pt]
-  languageCode = "pt-br"
+#[Languages.pt]
+ # languageCode = "pt-br"

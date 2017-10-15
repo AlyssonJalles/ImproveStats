@@ -1,13 +1,13 @@
 ---
-title: terceira postagem
-author: Jalles
+title: "terceira postagem"
+author: "Jalles"
 date: '2017-10-15'
-slug: terceira-postagem
-categories: []
-tags: []
 header:
   caption: ''
   image: ''
+slug: terceira-postagem
+tags: []
+categories: []
 ---
 
 
