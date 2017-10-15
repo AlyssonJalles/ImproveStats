@@ -204,8 +204,7 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-14T23:00:00-03:00</lastmod>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -214,7 +213,8 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>/</loc>
+      <lastmod>2017-10-14T23:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
