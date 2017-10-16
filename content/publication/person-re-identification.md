@@ -3,6 +3,7 @@ abstract = "Person re-identification is a critical security task for recognizing
 abstract_short = ""
 authors = ["GA Cushen"]
 date = "2015-09-01"
+draft = true
 image_preview = ""
 math = true
 publication_types = ["2"]

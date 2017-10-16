@@ -10,6 +10,9 @@ paginate = 10
 relativeurls = true
 publishDir = "docs"
 
+[permalinks]
+    post = "/:day/:month/:year/:slug/"
+    
 # Enable comments by entering your Disqus shortname
 disqusShortname = "improvestats"
 
@@ -185,12 +188,12 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
+  name = "Início"
+  url = "#inicio"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Informações"
   url = "#publications_selected"
   weight = 2
 
@@ -200,18 +203,18 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Linguagens de Programação"
+  url = "#linguagens"
   weight = 4
 
 [[menu.main]]
-  name = "Seção 5"
-  url = "#secao5"
+  name = "Consultoria Estatística"
+  url = "#consultoria"
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Contato"
+  url = "#contato"
   weight = 6
 
 # Taxonomies.
