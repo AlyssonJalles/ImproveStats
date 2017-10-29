@@ -21,13 +21,13 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./post/getting-started/"
+  url = "./01/12/2017/iniciando-na-ciência-de-dados/"
   label = '<i class="fa fa-book"></i> Iniciando na ciência de dados'
 +++
 
 Arte de transformar dados em informações valiosas na era do big data :pager: :1234: :chart_with_upwards_trend: :bar_chart:
 <br>
-<small><a id="academic-release" href="https://sourcethemes.com/academic/tags/updates">última atualização</a></small>
+<small><a id="academic-release" href="https://github.com/alyssonjalles/ImproveStats/">Contribua no github!</a></small>
 <br><br>
 <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=alyssonjalles&amp;repo=ImproveStats&amp;type=star&amp;count=true&amp;size=large" scrolling="0" width="160px" height="30px" frameborder="0"></iframe>
 <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=alyssonjalles&amp;repo=ImproveStats&amp;type=fork&amp;count=true&amp;size=large" scrolling="0" width="158px" height="30px" frameborder="0"></iframe>

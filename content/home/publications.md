@@ -5,7 +5,7 @@
 date = 2016-04-20
 draft = false
 
-title = "Recent Publications"
+title = "Informações"
 subtitle = ""
 widget = "publications"
 
@@ -20,7 +20,7 @@ count = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 1
 
 # Filter by publication type.
 # -1: Any

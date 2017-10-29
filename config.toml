@@ -194,7 +194,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Informações"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]

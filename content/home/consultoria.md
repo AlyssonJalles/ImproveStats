@@ -34,4 +34,4 @@ list_format = 1
 publication_type = "-1"
 +++
 
-Clique abaixo e descubra e faça seu orçamento comigo!
+Clique abaixo e faça seu orçamento e análises estatísticas comigo!
